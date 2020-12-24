@@ -1,5 +1,1 @@
-# Hello
-
-
-# Hi
 # learning-python
