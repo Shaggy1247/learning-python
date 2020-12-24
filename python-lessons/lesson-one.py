@@ -12,3 +12,9 @@ string = '3'
 
 name = 'Tim'
 print(name)
+name = 'bob'
+print(name)
+
+
+age = 18
+print(age)
