@@ -2,7 +2,7 @@
 # Lesson three
 # Learning about conditions
 #
-# Done , Shaggy1247
+# Done 12/27/20, Shaggy1247
 # -----------------------------------------------------------
 
 print(2 < 3)                # True
