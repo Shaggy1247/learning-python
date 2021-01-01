@@ -5,9 +5,8 @@
 # Done 12/31/20, Shaggy1247
 # -----------------------------------------------------------
 
-import math
-
 import myModule
+import math
 
 print(math.pi)
 print(math.radians(60))
