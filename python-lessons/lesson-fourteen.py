@@ -2,7 +2,7 @@
 # Lesson fourteen
 # Learning about writing to a text file
 #
-# Done 12/28/20, Shaggy1247
+# Done 12/31/20, Shaggy1247
 # -----------------------------------------------------------
 
 file = open("python-lessons/writefile.txt", "w")
