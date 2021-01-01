@@ -2,7 +2,7 @@
 # Lesson fifteen
 # Learning about .count() and .find()
 #
-# Done 12/28/20, Shaggy1247
+# Done 12/31/20, Shaggy1247
 # -----------------------------------------------------------
 
 # .find(), .count()
